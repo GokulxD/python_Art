@@ -14,11 +14,11 @@ Python Arts Done By [Maddie](https://github.com/MaddieTheRock)
   ⚫ Follow Me 
             [Follow Maddie](https://github.com/MaddieTheRock)
 
-          | <a href="https://github.com/MaddieTheRock" target="_blank">**Maddie**</a> |
+          | <a> href="https://github.com/MaddieTheRock" target="_blank">**Maddie**</a> |
 
-| <a href="https://github.com/MaddieTheRock/python_Art/commits?author=Maddie" target="_blank">`All Code Of This Bot Is Written By Me ^_^`</a> | <a href="https://github.com/MaddieTheRock" target="_blank">**Maddie**</a> | <a 
+| <a> href="https://github.com/MaddieTheRock/python_Art/commits?author=Maddie" target="_blank">`All Code Of This Bot Is Written By Me ^_^`</a> | <a> href="https://github.com/MaddieTheRock" target="_blank">**Maddie**</a> | <a>
 64
 | :---: |:---:|
 65
 
-| <a href="https://github.com/MaddieTheRock/python_Art/commits?author=Maddie" target="_blank">`All Code Of This Bot Is Written By Me ^_^`</a> 
+| <a> href="https://github.com/MaddieTheRock/python_Art/commits?author=Maddie" target="_blank">`All Code Of This Bot Is Written By Me ^_^`</a> 
