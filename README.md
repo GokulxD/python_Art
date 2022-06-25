@@ -15,7 +15,7 @@ Python Arts Done By [Maddie](https://github.com/MaddieTheRock)
             [Follow Maddie](https://github.com/MaddieTheRock)
 
           | <a href="https://github.com/MaddieTheRock" target="_blank">**Maddie**</a> |
-![Aasf] ![Aasf](https://avatars.githubusercontent.com/u/89440790?v=4)](https://avatars.githubusercontent.com/u/71401053?s=200&v=4)(https://avatars.githubusercontent.com/u/89440790?v=4)](https://avatars.githubusercontent.com/u/71401053?s=200&v=4)    | [![Waifu](https://avatars.githubusercontent.com/u/71401053?s=200&v=4)](https://github.com/Waifu-pics) |
+
 | <a href="https://github.com/MaddieTheRock/python_Art/commits?author=Maddie" target="_blank">`All Code Of This Bot Is Written By Me ^_^`</a> | <a href="https://github.com/MaddieTheRock" target="_blank">**Maddie**</a> | <a 
 64
 | :---: |:---:|
