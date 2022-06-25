@@ -24,16 +24,8 @@ Python Arts Done By [Maddie](https://github.com/MaddieTheRock)
 65
 | [![Aasf](https://avatars.githubusercontent.com/u/89440790?v=4)](https://avatars.githubusercontent.com/u/71401053?s=200&v=4)    | [![Waifu](https://avatars.githubusercontent.com/u/71401053?s=200&v=4)](https://github.com/Waifu-pics) |
 66
-| <a href="https://github.com/Ctzfamily/NekoBestBot/commits?author=Ctzfamily" target="_blank">`All Code Of This Bot Is Written By Me ^_^`</a> | <a href="https://bit.ly/3tKbP27" target="_blank">`Base Idea Of Making This Bot`</a>
-67
+| <a href="https://github.com/MaddieTheRock/python_Art/commits?author=Maddie" target="_blank">`All Code Of This Bot Is Written By Me ^_^`</a> 
 
-68
-## Support
-69
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/NandhaSupport)
-70
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Nandhabots) 
-71
 
 
  ly/3tKbP27" target="_blank">`Base Idea Of Making This Bot`</a>
