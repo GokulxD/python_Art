@@ -10,3 +10,6 @@ Python Arts Done By [Maddie](https://github.com/MaddieTheRock)
           
  <p align="center">
 <a href="https://t.me/MaddieTheRock"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+ 
+  ⚫ Follow Me 
+              [Follow Maddie](https://github.com/MaddieTheRock)
